@@ -1,0 +1,59 @@
+h1 {
+	color: #404040;
+	text-align: center;
+	font-size: 70px;
+	font-family: 'Noto Serif', sans-serif;
+	margin-top: 12%;
+	margin-bottom: 10px;
+}
+.intro {
+	color: gray;
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Noto Serif', sans-serif;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.btnWrapper {
+	text-align: center;
+	text-decoration: none;
+}
+
+.resumeBtn {
+	background: black;
+	color: white;
+	text-align: center;
+	border-radius: 100px;
+	font-size: 20px;
+	height: 40px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	vertical-align: center;
+}
+
+.resumeBtn:hover {
+	opacity: 0.7;
+}
+
+/* Style all font awesome icons */
+.social-icons {
+	font-size = 46px;
+	color: black;
+	text-align: center;
+}
+
+.fab {
+	margin: 5px;
+}
+
+.fab:hover {
+	opacity: 0.5;
+}
+
+.icon-link {
+	text-decoration: none;
+	color: black;
+}
