@@ -1,12 +1,17 @@
+html {
+	background: gray;
+}
+
+
 h1 {
-	color: #404040;
+	color: springgreen;
 	text-align: center;
 	font-size: 70px;
 	font-family: 'Noto Serif', sans-serif;
 	margin:150px auto 10px auto;
 }
 .intro {
-	color: gray;
+	color: white;
 	text-align: center;
 	font-size: 18px;
 	font-family: 'Noto Serif', sans-serif;
@@ -31,6 +36,7 @@ h1 {
 	padding-left: 20px;
 	padding-right: 20px;
 	vertical-align: center;
+	min-width: 206px;
 }
 
 .resumeBtn:hover {
